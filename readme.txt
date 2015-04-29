@@ -1,5 +1,5 @@
 === WP Admin Formatter - Customize Admin Panel===
-Contributors: Tahir, Ayesha
+Contributors: Discretelogix, Ayesha, Tahir
 Tags: WP, Admin, Formatter, Customize, Navigation, Background, Color, logo, Login, Page, Form, Field, Text, File, Favicon, Message, Footer, Wordpress, Font, Hover, Icons
 Requires at least: 3.5
 Tested up to: 4.1.2

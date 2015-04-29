@@ -1,8 +1,9 @@
 <?php
    /* Plugin Name: WP Admin Formatter - Customize Admin Panel
-    * Description: This Plugin provides multiple features to Customize Admin Panel.
-    * Author: Ayesha Idrees
+    * Description: This Plugin provides multiple features to Customize Admin Panel. 
     * Version: 1.0  
+	* Author: Ayesha Idrees
+	* Author URI: http://www.discretelogix.com/
     */
    define( 'WP_DEBUG', true );
    
